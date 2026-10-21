@@ -88,5 +88,29 @@
         "Link_Download": [
             "https://github.com/dbdfullop779/Online-Fix-Game/releases/download/OFM/Coral.Island.OFM.zip"
         ]
+    },
+    {
+        "Appid": "477160",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Online-Fix-Game/releases/download/OFM/Human.Fall.Flat.OFM.zip"
+        ]
+    },
+    {
+        "Appid": "2929250",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Online-Fix-Game/releases/download/OFM/over.the.hill.OFM.zip"
+        ]
+    },
+    {
+        "Appid": "1260320",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Online-Fix-Game/releases/download/OFM/Party.Animals.OFM.zip"
+        ]
+    },
+    {
+        "Appid": "3183760",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Online-Fix-Game/releases/download/OFM/SpeedRunners.2.King.of.Speed.OFM.zip"
+        ]
     }
 ]
