@@ -124,5 +124,17 @@
         "Link_Download": [
             "https://github.com/dbdfullop779/Online-Fix-Game/releases/download/OFM/HumanitZ.OFM.zip"
         ]
+    },
+    {
+        "Appid": "1426210",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Online-Fix-Game/releases/download/OFM/It.Takes.Two.OFM.zip"
+        ]
+    },
+    {
+        "Appid": "2001120",
+        "Link_Download": [
+            "https://github.com/dbdfullop779/Online-Fix-Game/releases/download/OFM/Split.Fiction.OFM.zip"
+        ]
     }
 ]
